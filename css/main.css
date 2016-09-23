@@ -6,7 +6,7 @@ html, html a {
 body {
     font-family: 'Open Sans', sans-serif;
     line-height: 1.5;
-    color: #656565;
+    color: #42474d;
     font-size: 15px;
     font-weight: 400;
 }
@@ -137,7 +137,7 @@ a:focus {
 	margin-bottom: 35px;
 }
 .page-title {
-	background: url(../images/background/page-title.jpg);
+	background: url(../images/slider/1.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
