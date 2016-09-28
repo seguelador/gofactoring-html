@@ -1085,3 +1085,11 @@ blockquote footer:before {
 .btn.btn-primary.btn-more {
 	padding: 8px 30px;
 }
+
+p.about strong {
+	margin-bottom: 0;
+}
+
+p.font-16 {
+	font-size: 16px;
+}
