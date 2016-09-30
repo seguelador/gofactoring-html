@@ -21,6 +21,7 @@ h6 {
 	margin: 0;
 	padding: 0;
 }
+
 p {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
@@ -1092,4 +1093,14 @@ p.about strong {
 
 p.font-16 {
 	font-size: 16px;
+}
+
+.list-awesome {
+	list-style-type: none;
+}
+.list-awesome li:before {
+	font-family: 'FontAwesome';
+	content: '\f087';
+	margin:0 5px 0 -15px;
+	color: #00a2e0;
 }
